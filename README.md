@@ -20,6 +20,6 @@ This ray tracer renders 3D scenes with:
    ```
 2. **Load a scene:** Click the scene file input and select `scene-2.json`
 3. **Render:** Click "Render scene" to generate the image
-4. **Adjust settings:** Toggle the Ambient, Diffuse, and Specular checkboxes to see different lighting effects, or change the Max Depth slider to control reflection bounces
+4. **Adjust settings:** Toggle the Ambient, Diffuse, and Specular checkboxes to see different lighting effects
 
 Scenes are defined in JSON files with camera position, objects (spheres/planes with colors and material properties), and light positions. See the included scene file for examples.
